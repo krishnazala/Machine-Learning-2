@@ -1,0 +1,21 @@
+=====================================================================================
+Algorithms: 
+Multinomial Naïve Bayes (**NOTE: Removed as value is yielding with negative results), 
+Logistic Regression, Support Vector Machines, Decision Trees
+
+Feature Extractors: CountVectorizer, Word2Vec, Doc2Vec
+=====================================================================================
+
+RESULTS:
+Logistic Regression with CountVectorizer Accuracy: 0.3
+Logistic Regression with Word2Vec Accuracy: 0.5
+Logistic Regression with Doc2Vec Accuracy: 0.5
+SVM with CountVectorizer Accuracy: 0.5
+SVM with Word2Vec Accuracy: 0.55
+SVM with Doc2Vec Accuracy: 0.5
+Decision Tree with CountVectorizer Accuracy: 0.2
+Decision Tree with Word2Vec Accuracy: 0.35
+Decision Tree with Doc2Vec Accuracy: 0.35
+
+BEST ACCURACY SCORE:
+SVM with Word2Vec Accuracy: 0.55
